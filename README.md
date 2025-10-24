@@ -16,17 +16,6 @@ Tools: Scanner (for input), Console output
 📁 Project Structure
 
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
 school-management-student/
 │
 ├── src/
@@ -64,21 +53,6 @@ Follow the on-screen menu prompts to manage student data.
 
 🖥️ Sample Output
 
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
 WELCOME TO SCHOOLMANAGMENT SERVICE
 Welcome to Student Menu
 Enter 1 for add the data
